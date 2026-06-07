@@ -43,5 +43,5 @@ Database-focused projects involving SQL queries, schema design, joins, indexing,
 
 ## 📫 Connect
 
-- LinkedIn: add your LinkedIn URL here
+- LinkedIn: www.linkedin.com/in/harshitha-g-m-04b65017a
 - Email: harshithagm0104@gmail.com
