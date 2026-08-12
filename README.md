@@ -1,6 +1,6 @@
 # Hi, I'm Harshitha 👋
 
-M.S. Computer Science student at the University at Buffalo with 2 years of software engineering experience in full-stack development, backend engineering, cloud applications, and AI/ML projects.
+M.S. Computer Science student at the University at Buffalo with 3+ years of software engineering experience in full-stack development, backend engineering, cloud applications, and AI/ML projects.
 
 I enjoy building scalable software systems using .NET, Python, SQL, React, Azure, AWS, and modern AI tools.
 
